@@ -49,7 +49,7 @@ def runloop(audio):
 
 good = ["Thanks, that was very nice!", "You're pretty chill hermano!", "Have a drink with me sometime"]
 
-bad = ["Fuck you faggot", "Kill yourself", "Your mom is fat and gay"]
+bad = ["Screw you", "Kill yourself", "Your mom is fat"]
 
 neu = ["Meh, whatever", "Yeah, I guess", "Sure, if you say so"]
 
